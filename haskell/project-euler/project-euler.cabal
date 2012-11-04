@@ -1,0 +1,10 @@
+name:		project-euler
+version:	1.0
+synopsis:	Project Euler problems solved using Haskell
+author:		Fabio Mancinelli
+maintainer:	fabio@mancinelli.me
+cabal-version:	>= 1.2
+build-type: 	Simple
+
+library
+ build-depends:	base >= 2.0
