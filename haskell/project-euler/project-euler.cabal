@@ -12,3 +12,7 @@ library
 executable problem1
  main-is:	Problem1.hs
 
+executable problem2
+ main-is:	Problem2.hs
+
+
