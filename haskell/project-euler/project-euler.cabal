@@ -24,3 +24,5 @@ executable problem4
 executable problem5
  main-is:	Problem5.hs
 
+executable problem6
+ main-is:	Problem6.hs
