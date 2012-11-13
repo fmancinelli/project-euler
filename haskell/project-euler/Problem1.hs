@@ -1,5 +1,7 @@
 module Main where
 
+-- Add all the natural numbers below one thousand that are multiples of 3 or 5.
+
 ------------------------------------------------------------------------------
 
 isMultipleOf3Or5 :: Integer -> Bool

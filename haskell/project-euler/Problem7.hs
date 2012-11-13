@@ -1,5 +1,7 @@
 module Main where
 
+-- Find the 10001st prime.
+
 ------------------------------------------------------------------------------
 
 -- A function that returns True if its parameter is a prime number

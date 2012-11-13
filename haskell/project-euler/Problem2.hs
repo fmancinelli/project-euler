@@ -1,5 +1,7 @@
 module Main where
 
+-- By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
+
 ------------------------------------------------------------------------------
 
 -- Recursive definition of an infinite list containing the fibonacci sequence. Here how it works:

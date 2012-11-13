@@ -1,5 +1,7 @@
 import Data.List
 
+-- What is the smallest number divisible by each of the numbers 1 to 20?
+
 ------------------------------------------------------------------------------
 
 -- Returns true if x is divisible by [1..n]

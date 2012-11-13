@@ -1,5 +1,7 @@
 module Main where
 
+-- What is the difference between the sum of the squares and the square of the sums?
+
 ------------------------------------------------------------------------------
 
 n = 100

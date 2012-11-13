@@ -2,6 +2,8 @@ module Main where
 
 import Data.List(find, sort)
 
+-- Find the largest palindrome made from the product of two 3-digit numbers.
+
 ------------------------------------------------------------------------------
 
 isPalindrome x = y == reverse y
