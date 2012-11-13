@@ -9,23 +9,23 @@ build-type: 	Simple
 library
  build-depends:	base >= 2.0
 
-executable problem1
- main-is:	Problem1.hs
+executable problem001
+ main-is:	Problem001.hs
 
-executable problem2
- main-is:	Problem2.hs
+executable problem002
+ main-is:	Problem002.hs
 
-executable problem3
- main-is:	Problem3.hs
+executable problem003
+ main-is:	Problem003.hs
 
-executable problem4
- main-is:	Problem4.hs
+executable problem004
+ main-is:	Problem004.hs
 
-executable problem5
- main-is:	Problem5.hs
+executable problem005
+ main-is:	Problem005.hs
 
-executable problem6
- main-is:	Problem6.hs
+executable problem006
+ main-is:	Problem006.hs
 
-executable problem7
- main-is:	Problem7.hs
+executable problem007
+ main-is:	Problem007.hs
