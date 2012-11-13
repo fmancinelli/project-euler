@@ -18,3 +18,6 @@ executable problem2
 executable problem3
  main-is:	Problem3.hs
 
+executable problem4
+ main-is:	Problem4.hs
+
