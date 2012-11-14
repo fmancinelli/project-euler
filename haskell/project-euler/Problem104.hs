@@ -17,6 +17,8 @@ isPanDigital x = length (nub $ filter (/= '0') $ x) == 9
 checkNumber x = (isPanDigital $ take 9 xs) && (isPanDigital $ drop (length xs - 9) xs)
 	where xs = show x
 
+------------------------------------------------------------------------------
+
 findNumber n (fib:fibs)
 	| checkNumber fib = n
 	| otherwise = findNumber (n+1) fibs
