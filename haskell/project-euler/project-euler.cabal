@@ -30,5 +30,8 @@ executable problem006
 executable problem007
  main-is:	Problem007.hs
 
+executable problem008
+ main-is:	Problem008.hs
+
 executable problem104
  main-is:	Problem104.hs
