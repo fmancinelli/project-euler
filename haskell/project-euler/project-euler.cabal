@@ -41,6 +41,9 @@ executable problem010
 
 executable problem011
  main-is:	Problem011.hs
+
+executable problem012
+ main-is:	Problem012.hs
  
 executable problem013
  main-is:	Problem013.hs
